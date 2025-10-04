@@ -12,7 +12,7 @@ I am focused on enhancing my front-end and back-end skills, building robust and 
 ## 🌟 Featured Projects  
 - [Pollos Canallas](https://github.com/Dabs127/polloscanallas): Mobile application for Pollos Canallas that streamlines the tracking and management of shipments, clients, and related operations.
 - [Yummy Blog](https://github.com/Dabs127/yummy-blog): Yummy Blog is a recipe blog developed with Nuxt 3. It allows you to publish and manage posts, as well as having an email subscription system.
-- [Juego de Ajedrez](https://github.com/Dabs127/chess-app): Implementation of a chess game using HTML, CSS, and Vanilla JavaScript
+- Cafe Aroma [Frontend](https://github.com/Dabs127/cafearoma-frontend) [Backend](https://github.com/Dabs127/cafearoma-backend): Cafe Aroma is a full-stack web application that serves as an online platform for a fictional coffee shop. It allows users to browse and explore products, while providing additional functionality for authenticated users based on their role. Administrators and staff can perform full CRUD operations (Create, Read, Update, Delete) on both products and promotions, enabling efficient management of the store’s offerings.
 
 
 ## 📫 Contact
